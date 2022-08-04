@@ -2,6 +2,9 @@ bl_info = {
     "name": "Planet Generation",
     "blender": (2, 93, 10),
     "category": "Object",
+    "author": "Dardan Gjinovci",
+    "version": (1, 0),
+    "doc_url": "https://github.com/dgjinovci/BlenderPlanets/blob/main/README.md"
 }
 
 
