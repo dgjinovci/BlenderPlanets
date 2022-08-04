@@ -1,6 +1,6 @@
 # BlenderPlanets
 
-This plugin generates IcoSphere based mesh and evaluates gradient from [hetero terrain noise](https://docs.blender.org/api/current/mathutils.noise.html#mathutils.noise.hetero_terrain "hetero terrain noise")
+This plugin generates IcoSphere based mesh and deforms height based on [hetero terrain noise](https://docs.blender.org/api/current/mathutils.noise.html#mathutils.noise.hetero_terrain "hetero terrain noise")
 
 After installing, You can find the panel in Right Sidebar (default shortcut key N):
 
